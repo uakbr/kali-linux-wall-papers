@@ -1,0 +1,102 @@
+Source: kali-wallpapers
+Section: misc
+Priority: optional
+Maintainer: Kali Developers <devel@kali.org>
+Uploaders: Daniel Ruiz de Alegría <daniruiz@kali.org>,
+           Raphaël Hertzog <raphael@offensive-security.com>,
+Build-Depends: debhelper-compat (= 12),
+               graphicsmagick-imagemagick-compat,
+               pngquant,
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Vcs-Git: https://gitlab.com/kalilinux/packages/kali-wallpapers.git
+Vcs-Browser: https://gitlab.com/kalilinux/packages/kali-wallpapers
+
+# Note: On next version bump, we can get rid of the breaks/replaces.
+
+Package: kali-wallpapers-all
+Architecture: all
+Depends: ${misc:Depends},
+         kali-wallpapers-2022,
+         kali-wallpapers-2020.4,
+         kali-wallpapers-2019.4,
+         kali-wallpapers-legacy,
+Description: All wallpapers for Kali Linux
+ This metapackage depends on all kali-wallpapers-* packages, providing all the
+ wallpapers used for BackTrack & Kali Linux
+
+# The package is versioned so that it stays around on end-user systems whenever
+# we introduce a new set of wallpapers, thus not breaking the user's background
+# if he selected a non-default wallpaper.
+Package: kali-wallpapers-2022
+Architecture: all
+Depends: ${misc:Depends}
+Breaks: kali-themes-common (<< 2020.4.4),
+        kali-wallpapers-2021.4 (<< 2022.1.0~),
+Replaces: kali-themes-common (<< 2020.4.4),
+          kali-wallpapers-2021.4 (<< 2022.1.0~),
+Description: Default wallpapers for Kali Linux 2022 and newer
+ This package contains multiple wallpapers for Kali Linux 2022 and future
+ releases.
+ .
+ If you have multiple kali-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of kali-themes-common
+ and is thus required.
+
+Package: kali-wallpapers-2021.4
+Section: oldlibs
+Architecture: all
+Depends: ${misc:Depends},
+         kali-wallpapers-2022,
+Description: Transitional package to install kali-wallpapers-2022
+ The package has been renamed kali-wallpapers-2022.
+ .
+ This dummy package can be safely removed once kali-wallpapers-2022
+ is installed on the system.
+
+Package: kali-wallpapers-2020.4
+Architecture: all
+Depends: ${misc:Depends}
+Breaks: kali-themes-common (<< 2022.1.0)
+Replaces: kali-themes-common (<< 2022.1.0)
+Description: Default wallpapers for Kali Linux 2020.4 and newer
+ This package contains multiple wallpapers that were in use in Kali Linux
+ between versions 2020.4 and 2021.3.
+ .
+ If you have multiple kali-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of kali-themes-common
+ and is thus required.
+
+Package: kali-wallpapers-2019.4
+Architecture: all
+Depends: ${misc:Depends}
+Breaks: kali-themes-common (<< 2020.4.4)
+Replaces: kali-themes-common (<< 2020.4.4)
+Description: Default wallpapers for Kali Linux 2019.4 and newer
+ This package contains multiple wallpapers that were in use in Kali Linux
+ between versions 2019.4 and 2020.3.
+ .
+ If you have multiple kali-wallpapers-YYYY.X packages on your system, you can
+ remove them all except the latest which is a dependency of kali-themes-common
+ and is thus required.
+
+Package: kali-wallpapers-legacy
+Architecture: all
+Depends: ${misc:Depends}
+Breaks: kali-legacy-wallpapers (<< 2020.4.4)
+Replaces: kali-legacy-wallpapers (<< 2020.4.4)
+Description: Wallpapers used over the years
+ Wallpapers and resources used over the years for BackTrack & Kali Linux,
+ used for nostalgic cosmetic value
+
+Package: kali-legacy-wallpapers
+Section: oldlibs
+Architecture: all
+Depends: ${misc:Depends},
+         kali-wallpapers-legacy,
+Description: Transitional package to install kali-wallpapers-legacy
+ The package has been renamed kali-wallpapers-legacy and is part of
+ the kali-wallpapers source package now.
+ .
+ This dummy package can be safely removed once kali-wallpapers-legacy
+ is installed on the system.

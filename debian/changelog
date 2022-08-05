@@ -1,0 +1,163 @@
+kali-wallpapers (2022.1.1) kali-dev; urgency=medium
+
+  * Add kali-heart valentine wallpaper
+
+ -- Daniel Ruiz de Alegría <daniruiz@kali.org>  Thu, 17 Feb 2022 11:33:13 +0100
+
+kali-wallpapers (2022.1.0) kali-dev; urgency=medium
+
+  [ Daniel Ruiz de Alegría ]
+  * Add new login wallpaper for 2021.4
+  * Add variants for kali-actiniaria wallpaper
+  * Revert "Compress all backgrounds with pngquant instead of optipng"
+  * Add lossy PNG compression for package build
+  * Reduce the number of resized wallpapers for 2022
+  * Update Breaks for kali-wallpapers-2020.4
+  * Recover xml version of wallpapers for gnome
+  * Add new default wallpaper kali-cubism
+  * Add kali-cubism to gnome and kde
+  * Add background kali-small-logo2
+  * Add kali-small-logo2 to gnome and kde
+  * Hold kali-cubism wallpaper for 2023
+  * Increase the number of cubes in kali-cubism wallpaper
+  * Add kali-layers wallpaper
+  * Repleace svg image of kali-layers with png
+  * Compress kali-layers png image
+  * Remove old kali-cubism png image
+  * Last changes to kali-layers wallpaper
+  * Add xml wallpaper file for gnome as required for kali-themes and
+    desktop-base
+  * Fix wrong file extension in kali-glitchsea
+
+  [ Arnaud Rebillout ]
+  * Rename wallpapers directory 2021.4 -> 2022
+  * Rename package wallpapers-2021.4 to 2022, add transitional package 2021.4
+  * Fix breaks on incorrect constraint
+  * Keep the pairs Breaks/Replaces in lockstep
+  * Bump Standards-Version, add Rules-Requires-Root
+  * Set Section to oldlibs for transitional packages
+
+ -- Arnaud Rebillout <arnaudr@kali.org>  Wed, 12 Jan 2022 10:48:58 +0700
+
+kali-wallpapers (2021.4.0) kali-dev; urgency=medium
+
+  [ Daniel Ruiz de Alegría ]
+  * Compress all backgrounds with pngquant instead of optipng
+
+  [ Ben Wilson ]
+  * Update email address
+  * Update control
+
+ -- Daniel Ruiz de Alegría <daniruiz@kali.org>  Wed, 01 Dec 2021 10:54:43 +0100
+
+kali-wallpapers (2021.2.1) kali-dev; urgency=medium
+
+  [ Ben Wilson ]
+  * Ran make
+  * Add kali4kids
+
+  [ Daniel Ruiz de Alegría ]
+  * Fix kali4kids wallpaper
+
+ -- Daniel Ruiz de Alegría <daniruiz@kali.org>  Mon, 17 May 2021 18:02:26 +0200
+
+kali-wallpapers (2021.2.0) kali-dev; urgency=medium
+
+  [ Daniel Ruiz de Alegría ]
+  * Add new background kali-abstract-sky
+  * Add new background kali-glitchsea
+  * Add new background kali-ascii
+  * Add new background kali-contours
+  * Generate variants for all the new wallpapers
+  * Remove duplicated image
+  * Fix generate-kde-wallpapers.sh
+  * Cherry pick script changes from master
+  * Fix bin/generate-kde-wallpapers.sh find parenthesis
+  * Remove wrong KDE wallpaper KaliGlitchsea.jpg
+  * Remove spaces from kali-backgrounds_legacy.xml
+  * Add gnome-background-properties xml file for 2021.4
+  * Ensure to remove all old symlinks before the scripts
+  * Fix generate-kde-wallpapers.sh is not reading images from legacy
+  * Remove old moved file
+  * Add blackhat 2017 background
+  * I forgot to push the actual file :D
+  * Minify kali-grub-1024x768
+  * Add README.md
+  * Add imagemagick as a build dependency and makefile to run all scripts inside
+    bin
+  * Revert "Fix 68c16a8a2bd5dc787c56fdd0c4973e599d5d3f10 - softlink"
+  * Add new kali-nova wallpaper
+  * Add kali-nova wallpaper variants
+  * Add kali-wallpapers-2021.4 to debian/control
+  * Move kali-contours and kali-nova to 2021.4 to maintain the package versioned
+    naming
+  * Add svg file for new login wallpaper
+  * Fix gnome-background-properties name for 2021.4
+  * Replace imagemagick build-depends with graphicsmagick-imagemagick-compat
+  * Fix background names for gnome
+  * Configure 'Breaks' for kali-wallpapers-2020.4, to avoid breaking older
+    kali-themes-common package
+  * Tweak bin scripts
+  * Fix piuparts issue with sort
+  * Fix typo in filename kali-contours.svg
+
+  [ Ben Wilson ]
+  * Remove duplicate file
+  * Add imagemagick as a build dependency
+  * Add quick README
+  * Add new kali-offsec
+  * update bin script to sort
+  * Update bin script to quit on error
+  * Update bin script to loop folders
+  * Add new blackhat wallpapers
+  * Clean up of old wallpaper
+  * Add Kali 1.0 (2014) colours
+  * Add Kali 1.0 grub wallpaper
+  * Add missing 2021.4 settings
+  * Fix 68c16a8a2bd5dc787c56fdd0c4973e599d5d3f10 - softlink
+  * Support jpeg filetypes & Don't crash if there isn't a folder to delete
+  * Don't crash if there isn't a folder to delete
+  * Clean up name & support jpg/jpeg
+  * More detail to README
+  * Symlink needs to happen first
+  * Updated output - ran scripts
+  * Updated formatting
+  * Recover kali-light-strips.svg
+
+  [ Arnaud Rebillout ]
+  * kali-offsec-2 is actually jpg
+
+ -- Arnaud Rebillout <arnaudr@kali.org>  Wed, 31 Mar 2021 16:35:52 +0700
+
+kali-wallpapers (2021.1.0) kali-dev; urgency=medium
+
+  [ Daniel Ruiz de Alegría ]
+  * Add 16x9 variants for xfce
+  * Optimize legacy backgrounds
+  * Remove bak file
+  * Regenerate kali-backgrounds_legacy.xml for gnome
+  * Add script to generate gnome-background-properties for legacy
+
+  [ Ben Wilson ]
+  * Fixed between versions for meta descriptions
+
+ -- Daniel Ruiz de Alegría <daniruiz@kali.org>  Fri, 18 Dec 2020 11:52:54 +0100
+
+kali-wallpapers (2020.4.4) kali-dev; urgency=medium
+
+  [ Daniel Ruiz de Alegría ]
+  * Rename backtrack wallpapers
+  * Remove unnecessary wallpaper symlinks for KDE
+  * Setup kali-wallpapers-legacy for KDE
+  * Optimize all png images
+
+  [ Raphaël Hertzog ]
+  * Drop kali-wallpapers-current
+    * The "default" symlink is moved to kali-themes where it belongs
+      since it's used by a configuration file provided there.
+    * The kali-light-strips.svg file is moved to the binary package
+      that provides this specific wallpaper.
+  * Fix typo in script name (symlics -> symlinks)
+  * Add kali-legacy-wallpapers transitional package
+
+ -- Raphaël Hertzog <raphael@offensive-security.com>  Wed, 11 Nov 2020 11:06:02 +0100

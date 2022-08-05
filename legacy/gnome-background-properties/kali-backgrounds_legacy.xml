@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper>
+    <name>Backtrack 1 Black</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-1-black.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 1 Dragon</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-1-dragon.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 1 Hand</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-1-hand.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 3 Black</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-3-black.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 3 Green</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-3-green.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 3 Wifu</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-3-wifu.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 3</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-3.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 4</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-4.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 4r1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-4r1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 4r2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-4r2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Black 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-black-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Blue 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-blue-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Blue 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-blue-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Blue2 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-blue2-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Camo 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-camo-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Camo 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-camo-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Green 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-green-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Green 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-green-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Grey1 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-grey1-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Grey1 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-grey1-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Grey2 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-grey2-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Orange 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-orange-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Orange 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-orange-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Purple 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-purple-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Purple 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-purple-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Yellow 1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-yellow-1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5 Yellow 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5-yellow-2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Black</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-black.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Blue</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-blue.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Green</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-green.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Grey</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-grey.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Grey2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-grey2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Lime</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-lime.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Orange</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-orange.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Purple</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-purple.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2 Yellow</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2-yellow.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Black</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-black.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Blue</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-blue.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Camo</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-camo.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Grey</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-grey.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Lime</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-lime.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Orange</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-orange.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Purple</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-purple.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3 Yellow</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3-yellow.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack 5r3</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-5r3.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack Blackhat2012 R3a</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-blackhat2012-r3a.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack Blackhat2012 R3b</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-blackhat2012-r3b.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Backtrack Blackhat2012 R3c</name>
+    <filename>/usr/share/backgrounds/kali-16x9/backtrack-blackhat2012-r3c.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 1.0</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-1.0.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 1.1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-1.1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2.0 Lock</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2.0-lock.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2.0</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2.0.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Blue0</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-blue0.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Blue1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-blue1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Blue2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-blue2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Grey1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-grey1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Grey2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-grey2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Orange1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-orange1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Orange2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-orange2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Red1</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-red1.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali 2014 Red2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-2014-red2.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Blackhat2015</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-blackhat2015.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Blackhat2017</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-blackhat2017.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Defcon23</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-defcon23.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Heart Wp Blue</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-heart-wp-blue.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Heart Wp</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-heart-wp.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Offsec 1a</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-offsec-1a.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Offsec 1b</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-offsec-1b.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali Offsec 2</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali-offsec-2.jpg</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+  <wallpaper>
+    <name>Kali4kids</name>
+    <filename>/usr/share/backgrounds/kali-16x9/kali4kids.png</filename>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#ffffff</pcolor>
+    <scolor>#000000</scolor>
+  </wallpaper>
+</wallpapers>
